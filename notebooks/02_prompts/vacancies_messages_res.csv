@@ -1,0 +1,51 @@
+;index;job_title;company;salary;tg;grade
+0;0;Python developer;Collectly;6000-9000 $;@ann_gfio;None
+1;0;Системный аналитик;АКЦИОНЕРНОЕ ОБЩЕСТВО «ГЛАВНЫЙ НАУЧНЫЙ ИННОВАЦИОННЫЙ ВНЕДРЕНЧЕСКИЙ ЦЕНТР» (АО «ГНИВЦ»);320000-370000 руб.;@NatalyaMaki;None
+2;0;Database Administrator;Match Systems;от 3000 $;@lex_kertis;senior
+3;0;Руководитель отдела системного администрирования;None;от 3000 $;@ResearcherRIT;None
+4;0;Analyst;Sirena Travel;120000-180000 руб.;@ann_gfio;None
+5;0;DevOps инженер;Mad Devs;до 5000 $;@recruiter_maddevs;senior
+6;0;Системный аналитик;Платформа;180000-300000 руб.;@Alexandrabogdanova_96;senior,middle+,lead
+7;0;Python/Django full-stack разработчика;ivelum;4000-6000 $;@lebedevaoi;None
+8;0;Go разработчик;КА Алешин Д.А.;до 500000 руб.;@AleshinDmitry80;middle
+9;0;Разработчик (Vue.js / Golang);None;None;None;junior
+10;0;Lead UI/UX Designer;None;None;@alesyaly;None
+11;0;QA automation Engineer (Python);CFPS;180000-250000 руб.;@Ana_Itrecruiter;middle,senior
+12;0;Full Stack PHP-разработчик;GetCourse;от 250000 руб.;@Ritttka1;None
+13;0;Frontend разработчик;Travelata;280000-320000 руб.;@ann_gfio;senior
+14;0;React Developer;крупный банк;180000-230000 руб.;None;middle+
+15;0;PHP-developer (Symfony);KT.Team;до 240000 руб.;@innahotim;None
+16;0;Retention Manager;None;None;@alesyaly;None
+17;0;Python developer;Skillbox;300000-400000 руб.;@ann_gfio;senior
+18;0;Программист 1С:ЗУП;КСА;220000-250000 руб.;@saras770;None
+19;0;Системный аналитик;Amber;до 300000 руб.;@Sholpan771;middle
+20;0;Tech Lead QA;RecruitIT;от 3000 $;@ResearcherRIT;None
+21;0;Backend Python разработчик;Траст Строй;None;@Lyubov_Vladim;senior
+22;0;Менеджер по развитию партнерской сети;AMBER;от 130000 руб.;@Sholpan771;None
+23;0;Full-stack разработчик;"КА ""АйтиКА""";300000-380000 руб.;@artur_vv;None
+24;0;C# Engineer;GGEM;от 17$ в час;@AlexMayel;None
+25;0;System Аnalyst;Brief;240000-300000 руб.;@smirnsvet;middle,senior
+26;0;Разработчик PowerBuilder;Outlines Tech;до 290000 руб.;@mnoita;None
+27;0;Системный аналитик;INFOPRO;100000-200000 руб.;@ann_gfio;middle
+28;0;Java developer;None;200000-250000 руб.;@Sholpan771;middle
+29;0;PHP программист;100UP;от 150000-200000 руб.;@romanenko_daria;None
+30;0;IT Recruiter;AIPeople;None;@nastyaishiring;junior
+31;0;C/C++ Developer;NTS;140000-300000 руб.;@ann_gfio;middle, senior
+32;0;PHP developer;Водоходъ;180000-200000 руб.;@ann_gfio;middle, senior
+33;0;Python Developer;ALEX GROUP COMPANY;от 3000-3600 $;@danilavaren;middle
+34;0;Go Developer;WILDBERRIES;от 150000 до 600000 руб.;@hr_legoit;None
+35;0;SDR;Ptolemay;300000-1000000 $;@Dmitriy_Ptolemay, @rinapina_ptolemay;None
+36;0;C# Developer;Sirena Travel;300000-400000 руб.;@ann_gfio;None
+37;0;Системный администратор;MANUFAQTURY;от 80000 руб.;None;None
+38;0;Аналитик;Автомакон;None;@nikolaazzp;intern
+39;0;копирайтер;ALEX GROUP COMPANY;80000-140000 руб.;@danilavaren;None
+40;0;QA;Dreamsoft;None;@DreamITB;None
+41;0;Системный аналитик;AWG;до 350000 руб.;@ElivHR;senior
+42;0;Release manager;WILDBERRIES;от 150000 руб. - 350000 руб.;@invader_s;None
+43;0;DevOps (Openstack Engineer);Mayflower;5000-6000 $;@Alexandr_Mayel;None
+44;0;Go Developer;WILDBERRIES;от 150000 руб.-до 600000 руб.;@Fl_recruiter;None
+45;0;Backend Engineer;Qlan;110000-140000 руб.;@laptev13;middle+
+46;0;Программист на верстку;None;None;@vlrstrtsv;None
+47;0;DWH developer;König Labs;250000-300000 руб.;@HrKristinaorekhova;None
+48;0;Frontend разработчик Angular;Nobilis.Team;180000-250000 руб.;@Anna_HRinIT;middle
+49;0;HR Manager;ALEX GROUP COMPANY;70000-90000 руб.;@danilavaren;junior
